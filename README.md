@@ -37,3 +37,4 @@ print("saving model")
 sentiment.save('sentiment.marshal')
 print("end training")
 ```
+3. 会在根目录生成sentiment.marshal.3把它复制到snownlp下的sentiment中.
