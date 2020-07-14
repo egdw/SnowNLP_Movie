@@ -1,5 +1,4 @@
 from snownlp import SnowNLP
-from snownlp import sentiment
 
 s = SnowNLP(u'甩迪斯尼好几条街！技术已经达到顶级水平！故事改编得有趣有人情味！可惜“哪吒”好丑！为中国国产动画的进步感到骄傲！致敬每一个为中国动画努力拼搏的人！')
 print(s.sentiments)
