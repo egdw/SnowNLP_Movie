@@ -38,3 +38,5 @@ sentiment.save('sentiment.marshal')
 print("end training")
 ```
 3. 会在根目录生成sentiment.marshal.3把它复制到snownlp下的sentiment中.
+
+4. 运行SentimentTest.py调用生成完成的模型
